@@ -1,0 +1,8 @@
+﻿  CLASS WORK - OOP - 18.01.24.cpp
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(35,18): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(141,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(167,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(178,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(249,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(363): warning C4717: operator<<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  CLASS WORK - OOP - 18.01.24.vcxproj -> D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\x64\Debug\CLASS WORK - OOP - 18.01.24.exe
